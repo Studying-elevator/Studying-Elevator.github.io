@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studying Elevator</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f0f0f0;
+      }
+      h1 {
+        color: #333;
+      }
+      p {
+        color: #555;
+        line-height: 1.6;
+      }
+      a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+      .container {
+        max-width: 800px;
+        margin: auto;
+        background: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to Studying Elevator!</h1>
+      <p>Our mission is to empower IGCSE students like you to reach new academic heights. We provide a curated collection of resources designed to enhance your learning experience and elevate your grades. Whether you're looking for past papers, study guides, or helpful tips, our platform is your go-to destination for all things IGCSE. Join us on this journey to academic excellence, and let's lift your grades to the top together!</p>
+      <p>Here’s an image representing growth and learning:</p>
+      <img src="https://via.placeholder.com/600x300" alt="Learning and Growth">
+      <p>Check out our favorite educational resources: <a href="https://www.example.com" target="_blank">Example.com</a></p>
+    </div>
+  </body>
+</html>
